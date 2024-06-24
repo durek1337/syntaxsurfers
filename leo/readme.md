@@ -1,3 +1,3 @@
 # Website
 ## Installationshinweise
-blababla
+Schritt 1: Installieren
